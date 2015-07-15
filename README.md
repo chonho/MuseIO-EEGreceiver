@@ -1,5 +1,5 @@
 # MuseIOReceiver
-School project to receive data from Muse headband
+project to receive data from Muse headband
 
 - Collects EEG data from FP1, TP9, TP10, FP2 (10-20 System)
 - Uses FFT to extract the power in the theta, alpha, beta and gamma frequency bands
@@ -14,3 +14,6 @@ School project to receive data from Muse headband
 - End Goal: Use the developed classification technique to control the mobile device
   - E.g. Playing a game using 'mind control'
   - E.g. Identifying periods of relaxation and concentration while user is performing some task on the mobile device
+
+#--------------------
+local folder -> D:/workspace/GitHub/MuseIO-EEGreceiver
